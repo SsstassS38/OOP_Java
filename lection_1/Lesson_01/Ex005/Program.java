@@ -1,4 +1,4 @@
-package OOP_Java.Lesson_01.Ex005;
+package OOP_Java.lection_1.Lesson_01.Ex005;
 
 public class Program {
     public static void main(String[] args) {
