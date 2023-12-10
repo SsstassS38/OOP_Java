@@ -9,6 +9,9 @@ public class Teacher {
         this.lastName = lastName;
     }
 
+    public Teacher(String firstName2, String secondName, String lastName2, String dateB, int id) {
+    }
+
     public String getFirstName() {return firstName;}
 
     public String getLastName() {
